@@ -1,1 +1,1 @@
-# teachVanilaJS
+# gameOnJS
